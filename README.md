@@ -1,8 +1,18 @@
 # USB micro breakouts
 
-????????????????????????????????
+A collection of USB micro breakout boards.
 
-TODO: Add photo of completed boards
+........................................
+........................................
+........................................
+
+TODO: Add photos of completed boards
+
+## Boards in collection
+
+* [USB micro B male breakout](./USB%20micro%20B%20male%20breakout)
+* [USB micro B RA breakout](./USB%20micro%20B%20RA%20breakout)
+* [USB micro B Vert breakout](./USB%20micro%20B%20Vert%20breakout)
 
 ## Licence
 
