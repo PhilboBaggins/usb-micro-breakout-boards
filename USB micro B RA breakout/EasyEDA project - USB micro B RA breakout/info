@@ -1,0 +1,136 @@
+{
+  "uuid": "b1762845eaaaeb3259cfa61ac5f3b77b",
+  "path": "Offline/EasyEDA%20project%20-%20USB%20micro%20B%20RA%20breakout",
+  "name": "EasyEDA project - USB micro B RA breakout",
+  "content": "",
+  "created_at": "2023-02-02 23:17:24",
+  "updated_at": "2023-08-23 02:12:56",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "33313bf8a2f99bcf6bd08d88087b9c24",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "88cfd8cf8bd6487b81352a270ca076e2": 1,
+        "a052559478a14ee2b9e3514bee4ff72d": 2,
+        "588dac9f81df8f83843513972963b454": 1,
+        "89026c0e23ca49dcb85d26a1d0805b33": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10u",
+          1,
+          "C0805",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "22u",
+          1,
+          "C0805",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          2,
+          "HDR-M-2.54_1X5",
+          "J1,J2",
+          {
+            "BOM_Supplier Part": "C358687",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "108969f8d9834a9ea23bcec2d43a66e4",
+            "uuid": "a052559478a14ee2b9e3514bee4ff72d"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "AMS",
+            "BOM_Manufacturer Part": "AMS1117-3.3",
+            "BOM_Supplier Part": "C6186",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "02ae667aca734971be8a5f58143dd564",
+            "uuid": "588dac9f81df8f83843513972963b454"
+          }
+        ],
+        [
+          "U254-051T-4BH83-S1S",
+          1,
+          "MICRO-USB-SMD_U254-051T-4BH83-S1S",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319160",
+            "BOM_Manufacturer": "XKB Connectivity(中国星坤)",
+            "BOM_Manufacturer Part": "U254-051T-4BH83-S1S",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0bd2e6fda178442fbc6dba64f4e65b64",
+            "uuid": "88cfd8cf8bd6487b81352a270ca076e2"
+          }
+        ]
+      ],
+      "updateTime": 1676188966,
+      "createTime": 1675340245,
+      "histories": [],
+      "created_at": "2023-02-02 23:17:25",
+      "updated_at": "2023-02-12 19:02:46"
+    },
+    {
+      "uuid": "68c00befda56610ff28154b2c3d5cf5a",
+      "puuid": "b1762845eaaaeb3259cfa61ac5f3b77b",
+      "title": "PCB_USB micro B RA breakout",
+      "filename": "PCB_USB micro B RA breakout.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "108969f8d9834a9ea23bcec2d43a66e4": 2,
+        "0bd2e6fda178442fbc6dba64f4e65b64": 1
+      },
+      "BOM": [],
+      "updateTime": 1692720776,
+      "createTime": 1675342223,
+      "histories": [],
+      "created_at": "2023-02-02 23:50:23",
+      "updated_at": "2023-08-23 02:12:56"
+    }
+  ],
+  "sort": [],
+  "title": "EasyEDA project - USB micro B RA breakout",
+  "foldername": "EasyEDA project - USB micro B RA breakout",
+  "schfilename": "USB micro B RA breakout.json",
+  "schfilemtime": 1676188966091
+}

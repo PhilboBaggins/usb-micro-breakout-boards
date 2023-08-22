@@ -1,0 +1,135 @@
+{
+  "uuid": "0a5393d53408fc07a534a51954f4048a",
+  "path": "Offline/EasyEDA%20project%20-%20USB%20micro%20B%20male%20breakout",
+  "name": "EasyEDA project - USB micro B male breakout",
+  "content": "",
+  "created_at": "2023-02-12 18:11:58",
+  "updated_at": "2023-02-12 19:08:59",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d694f4bbdd3383663c6a732f2b03efcf",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a052559478a14ee2b9e3514bee4ff72d": 2,
+        "4ef73fc6d0134e1985d2c2600e5e972f": 1,
+        "245526444bbe85b260f4b99a6aa28864": 1,
+        "89026c0e23ca49dcb85d26a1d0805b33": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10u",
+          1,
+          "C0805",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "22u",
+          1,
+          "C0805",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          2,
+          "HDR-M-2.54_1X5",
+          "J1,J2",
+          {
+            "BOM_Supplier Part": "C358687",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "108969f8d9834a9ea23bcec2d43a66e4",
+            "uuid": "a052559478a14ee2b9e3514bee4ff72d"
+          }
+        ],
+        [
+          "AMS1117-5.0",
+          1,
+          "SOT-223_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "AMS",
+            "BOM_Manufacturer Part": "AMS1117-5.0",
+            "BOM_Supplier Part": "C6187",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "4ca399a3887148eeab92cd3a98a855b3",
+            "uuid": "245526444bbe85b260f4b99a6aa28864"
+          }
+        ],
+        [
+          "U-G-M5WS-W-01",
+          1,
+          "MICRO-USB-SMD_U-G-M5WS-W-01",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C283546",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "U-G-M5WS-W-01",
+            "puuid": "796ce39b793546b59ab3cb697f5064bf",
+            "uuid": "4ef73fc6d0134e1985d2c2600e5e972f"
+          }
+        ]
+      ],
+      "updateTime": 1676189103,
+      "createTime": 1676185918,
+      "histories": [],
+      "created_at": "2023-02-12 18:11:58",
+      "updated_at": "2023-02-12 19:05:03"
+    },
+    {
+      "uuid": "e16c1924facb741daf1474c99f976ef2",
+      "puuid": "0a5393d53408fc07a534a51954f4048a",
+      "title": "PCB_USB micro B male breakout",
+      "filename": "PCB_USB micro B male breakout.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "4ca399a3887148eeab92cd3a98a855b3": 1,
+        "108969f8d9834a9ea23bcec2d43a66e4": 2,
+        "796ce39b793546b59ab3cb697f5064bf": 1
+      },
+      "BOM": [],
+      "updateTime": 1676189339,
+      "createTime": 1676186042,
+      "histories": [],
+      "created_at": "2023-02-12 18:14:02",
+      "updated_at": "2023-02-12 19:08:59"
+    }
+  ],
+  "sort": [],
+  "title": "EasyEDA project - USB micro B male breakout",
+  "foldername": "EasyEDA project - USB micro B male breakout",
+  "schfilename": "USB micro B male breakout.json",
+  "schfilemtime": 1676189103638
+}

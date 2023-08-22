@@ -1,0 +1,136 @@
+{
+  "uuid": "5b2326c1c5f4bcf102b4056f05e2f7d4",
+  "path": "Offline/EasyEDA%20project%20-%20USB%20micro%20B%20Vert%20breakout",
+  "name": "EasyEDA project - USB micro B Vert breakout",
+  "content": "",
+  "created_at": "2023-02-12 18:06:27",
+  "updated_at": "2023-08-23 02:11:35",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "32eb023f5f94b29de5e8757736bb9f8a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "370b6ff1aa854f02a77a550bf895bf6d": 1,
+        "89026c0e23ca49dcb85d26a1d0805b33": 2,
+        "588dac9f81df8f83843513972963b454": 1,
+        "a052559478a14ee2b9e3514bee4ff72d": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10u",
+          1,
+          "C0805",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "22u",
+          1,
+          "C0805",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x5",
+          2,
+          "HDR-M-2.54_1X5",
+          "J1,J2",
+          {
+            "BOM_Supplier Part": "C358687",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "108969f8d9834a9ea23bcec2d43a66e4",
+            "uuid": "a052559478a14ee2b9e3514bee4ff72d"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "AMS",
+            "BOM_Manufacturer Part": "AMS1117-3.3",
+            "BOM_Supplier Part": "C6186",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "02ae667aca734971be8a5f58143dd564",
+            "uuid": "588dac9f81df8f83843513972963b454"
+          }
+        ],
+        [
+          "U-D-M5DD-W-1",
+          1,
+          "MICRO-USB-TH_MICRO-USB-A14",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "U-D-M5DD-W-1",
+            "BOM_Supplier Part": "C145795",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ddd13cda4fab454090146b6879512694",
+            "uuid": "370b6ff1aa854f02a77a550bf895bf6d"
+          }
+        ]
+      ],
+      "updateTime": 1676188980,
+      "createTime": 1676185588,
+      "histories": [],
+      "created_at": "2023-02-12 18:06:28",
+      "updated_at": "2023-02-12 19:03:00"
+    },
+    {
+      "uuid": "c5ab7a2815e1dc8999bee016e6316ffa",
+      "puuid": "5b2326c1c5f4bcf102b4056f05e2f7d4",
+      "title": "PCB_USB micro B Vert breakout",
+      "filename": "PCB_USB micro B Vert breakout.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
+        "108969f8d9834a9ea23bcec2d43a66e4": 2,
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "ddd13cda4fab454090146b6879512694": 1
+      },
+      "BOM": [],
+      "updateTime": 1692720695,
+      "createTime": 1676185738,
+      "histories": [],
+      "created_at": "2023-02-12 18:08:58",
+      "updated_at": "2023-08-23 02:11:35"
+    }
+  ],
+  "sort": [],
+  "title": "EasyEDA project - USB micro B Vert breakout",
+  "foldername": "EasyEDA project - USB micro B Vert breakout",
+  "schfilename": "USB micro B Vert breakout.json",
+  "schfilemtime": 1676188980066
+}
