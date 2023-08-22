@@ -1,6 +1,8 @@
-# USB micro B RA breakout
+# USB micro B right angle breakout
 
-????????????????????????????????
+Breakout board for a right angle USB micro B connector.
+
+The board has two M3 mounting holes that are positioned so that they can be used to mount the board to a base plate or to a side panel (using a pair of L brackets).
 
 ![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
 ![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
