@@ -4,7 +4,7 @@
   "name": "EasyEDA project - USB micro B male breakout",
   "content": "",
   "created_at": "2023-02-12 18:11:58",
-  "updated_at": "2023-02-12 19:08:59",
+  "updated_at": "2023-08-23 04:12:27",
   "stick": "",
   "documents": [
     {
@@ -16,9 +16,7 @@
       "thumb": "/images/thumb-default.png",
       "components": {
         "a052559478a14ee2b9e3514bee4ff72d": 2,
-        "4ef73fc6d0134e1985d2c2600e5e972f": 1,
-        "245526444bbe85b260f4b99a6aa28864": 1,
-        "89026c0e23ca49dcb85d26a1d0805b33": 2
+        "4ef73fc6d0134e1985d2c2600e5e972f": 1
       },
       "BOM": [
         [
@@ -27,32 +25,6 @@
           "Package",
           "Components",
           "CustomPara"
-        ],
-        [
-          "10u",
-          1,
-          "C0805",
-          "C1",
-          {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
-            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
-            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
-          }
-        ],
-        [
-          "22u",
-          1,
-          "C0805",
-          "C2",
-          {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
-            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
-            "uuid": "89026c0e23ca49dcb85d26a1d0805b33"
-          }
         ],
         [
           "HDR-M-2.54_1x5",
@@ -66,21 +38,6 @@
             "BOM_Manufacturer Part": "",
             "puuid": "108969f8d9834a9ea23bcec2d43a66e4",
             "uuid": "a052559478a14ee2b9e3514bee4ff72d"
-          }
-        ],
-        [
-          "AMS1117-5.0",
-          1,
-          "SOT-223_L6.5-W3.5-P2.30-LS7.0-BR",
-          "U1",
-          {
-            "BOM_Supplier": "LCSC",
-            "BOM_Manufacturer": "AMS",
-            "BOM_Manufacturer Part": "AMS1117-5.0",
-            "BOM_Supplier Part": "C6187",
-            "BOM_JLCPCB Part Class": "Basic Part",
-            "puuid": "4ca399a3887148eeab92cd3a98a855b3",
-            "uuid": "245526444bbe85b260f4b99a6aa28864"
           }
         ],
         [
@@ -98,11 +55,11 @@
           }
         ]
       ],
-      "updateTime": 1676189103,
+      "updateTime": 1692727195,
       "createTime": 1676185918,
       "histories": [],
       "created_at": "2023-02-12 18:11:58",
-      "updated_at": "2023-02-12 19:05:03"
+      "updated_at": "2023-08-23 03:59:55"
     },
     {
       "uuid": "e16c1924facb741daf1474c99f976ef2",
@@ -114,22 +71,20 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "2ee8eb13a0124a108e622ce40c0c25a8": 2,
-        "4ca399a3887148eeab92cd3a98a855b3": 1,
         "108969f8d9834a9ea23bcec2d43a66e4": 2,
         "796ce39b793546b59ab3cb697f5064bf": 1
       },
       "BOM": [],
-      "updateTime": 1676189339,
+      "updateTime": 1692727947,
       "createTime": 1676186042,
       "histories": [],
       "created_at": "2023-02-12 18:14:02",
-      "updated_at": "2023-02-12 19:08:59"
+      "updated_at": "2023-08-23 04:12:27"
     }
   ],
   "sort": [],
   "title": "EasyEDA project - USB micro B male breakout",
   "foldername": "EasyEDA project - USB micro B male breakout",
   "schfilename": "USB micro B male breakout.json",
-  "schfilemtime": 1676189103638
+  "schfilemtime": 1692727195058
 }
