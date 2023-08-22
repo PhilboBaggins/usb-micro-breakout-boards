@@ -2,10 +2,6 @@
 
 A collection of USB micro breakout boards.
 
-........................................
-........................................
-........................................
-
 TODO: Add photos of completed boards
 
 ## Boards in collection
@@ -14,7 +10,7 @@ TODO: Add photos of completed boards
 | ------------------------------------------------------------------------- | -------------------------- |
 | [USB micro B male breakout](./USB%20micro%20B%20male%20breakout)          | Design in progress         |
 | [USB micro B right angle breakout](./USB%20micro%20B%20RA%20breakout)     | v1.0 released but untested |
-| [USB micro B Vert breakout](./USB%20micro%20B%20Vert%20breakout)          | Design in progress         |
+| [USB micro B Vertical breakout](./USB%20micro%20B%20Vert%20breakout)      | Design in progress         |
 
 ## Licence
 

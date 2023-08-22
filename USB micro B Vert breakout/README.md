@@ -1,6 +1,15 @@
-# USB micro B Vert breakout
+# USB micro B Vertical breakout
 
-????????????????????????????????
+Breakout board for a Vertical USB micro B connector.
+
+The board has two M3 mounting holes that are positioned so that they can be used to mount the board to side panel without the use of any brackets.
+
+This board uses the same type of USB connector as the [USB micro B right angle breakout](../USB%20micro%20B%20RA%20breakout) board.
+This board differs from the "right angle" board in the following ways:
+
+* this board has a vertical connector instead of a right angle connector (meaning it mounts to a panel or case differently)
+* this board does not have the 3.3 volt regulator
+* this board uses no surface mount components
 
 ![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
 ![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
