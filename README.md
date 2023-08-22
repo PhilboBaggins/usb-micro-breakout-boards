@@ -8,9 +8,9 @@ TODO: Add photos of completed boards
 
 | Board                                                                     | Status                     |
 | ------------------------------------------------------------------------- | -------------------------- |
-| [USB micro B male breakout](./USB%20micro%20B%20male%20breakout)          | Design in progress         |
+| [USB micro B male breakout](./USB%20micro%20B%20male%20breakout)          | v1.0 released but untested |
 | [USB micro B right angle breakout](./USB%20micro%20B%20RA%20breakout)     | v1.0 released but untested |
-| [USB micro B Vertical breakout](./USB%20micro%20B%20Vert%20breakout)      | Design in progress         |
+| [USB micro B Vertical breakout](./USB%20micro%20B%20Vert%20breakout)      | v1.0 released but untested |
 
 ## Licence
 
